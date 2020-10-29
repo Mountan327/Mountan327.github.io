@@ -4,3 +4,5 @@
 
 [第二次作业](https://github.com/Mountan327/Mountan327.github.io/blob/main/test.py/)
 
+[第三次作业 gui 离散函数](https://github.com/Mountan327/Mountan327.github.io/blob/main/guitest.py/)
+
